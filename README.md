@@ -30,4 +30,4 @@ Feel free to modify and customize the description to suit your specific needs. G
 
 Screenshot : 
 
-![](https://i.ibb.co/j67w7SQ/ezgif-com-gif-maker-1.webp)
+<img src="https://gcdnb.pbrd.co/images/kaH52Ogxnkva.gif?o=1"/>
