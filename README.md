@@ -30,4 +30,8 @@ Feel free to modify and customize the description to suit your specific needs. G
 
 Screenshot : 
 
-![](https://gcdnb.pbrd.co/images/kaH52Ogxnkva.gif?o=1)
+# Light Mode
+<img src="https://gcdnb.pbrd.co/images/LBweefM5oDNE.png"/>
+
+# Night Mode
+<img src="https://gcdnb.pbrd.co/images/9p0CuKOkggxF.png"/>
